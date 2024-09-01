@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Freelancer**
 
-- 🌱 I’m currently learning **Javascript and Php Framework**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **ahliljannah24@gmail.com**
 
