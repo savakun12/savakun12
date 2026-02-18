@@ -5,11 +5,15 @@
 
 - 🔭 I’m currently working on **Company**
 
-- 🌱 I’m currently learning **Framework Java and PHP**
+- 💻 Skills: **Java, PHP, JavaScript, Python**
 
-- 📫 How to reach me **ahliljannah24@gmail.com**
+- 💡 Currently deepening my skills in **Java, JavaScript, Python, and Application Security**
 
-- ⚡ Fun fact **I think, iam Batman**
+- 🔐 Learning **Cyber Security and Secure Coding Practices**
+
+- 📫 How to reach me: **ahliljannah24@gmail.com**
+
+- ⚡ Fun fact: **I think I am Batman 🦇**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
